@@ -1,0 +1,176 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.bg{
+    background-image:url('images/tindogs-new.png');
+    height: 800px;
+    /* height:120vh; */
+   
+    
+}
+
+.nav{
+    float:right;
+    padding-top: 7%;
+    padding-right: 13%;
+}
+
+.dog{
+    padding-top: 6%;
+    padding-left: 13%;
+    color:rgb(255, 255, 255);
+}
+
+a{
+    text-decoration:none;
+    color:white;
+   padding-right:30px;
+    
+}
+
+.para{
+    color:#ffffff;
+    padding-left:13%;
+    padding-top: 7%;
+    font-size: 30px;
+}
+
+.butt{
+    padding-left:13%;
+    padding-top: 2%;
+    
+}
+
+.but2{
+    margin-left: 10px;
+}
+
+#mid1{
+    margin:5vh;
+    padding:14vh;
+    display:inline-block;
+}
+
+#mid2{
+    margin:5vh;
+    padding:14vh;
+    display:inline-block
+      
+}
+
+#mid3{
+    margin:5vh;
+    padding:14vh;
+    display:inline-block;
+}
+
+.lowa{
+    /* padding:15%; */
+    background-color: orangered;
+    width:100%;
+    height: 50vh
+}
+
+#mana{
+    margin-left: 25%;
+    padding-top:2%;
+    
+}
+
+#mana p{
+    color:white;
+    font-size: 30px;
+    word-spacing: 15px;
+}
+
+#peb {
+    /* background-color: blueviolet; */
+    /* display:inline-block; */
+    margin-left: 50%;
+   
+}
+
+#peb img{
+    margin-top: 20px;
+}
+
+#raw{
+    background-color: blueviolet;
+}
+
+.angel{
+    height: 70vh;
+    width:auto;
+}
+
+#plan p{
+    text-align: center;
+
+}
+
+.chi {
+    border:1px solid rgb(186, 182, 182);
+    display: inline-block;
+    /* height:250px; width:200px; */
+    height:53%; width: 15%;
+    margin-left:180px;
+    margin-top: 40px;
+}
+
+.lab {
+        border:1px solid rgb(186, 182, 182);
+        display: inline-block;
+        /* height:250px; width:200px; */
+        height:53%; width: 15%;
+        margin-left:140px;
+        margin-top: 40px;
+}
+
+.mast {
+    border:1px solid rgb(186, 182, 182);
+    display: inline-block;
+    /* height:270px; width:200px; */
+    height:58%; width: 15%;
+    margin-left:140px;
+    margin-top: 40px;
+}
+
+.love {
+    background-color: rgba(225, 33, 71, 0.865);
+    height:300px;
+}
+
+#down {
+    
+    padding-left:41%;
+    margin-top: 2%;
+}
+
+footer {
+    height: 20vh;
+    width:auto;
+}
+
+.fa-solid {
+    color: brown;
+    text-size-adjust: ;
+}
+
+.fa-twitter {
+    color:black;
+}
+
+.fa-facebook-f {
+    color:black;
+}
+
+.fa-instagram {
+    color: black;
+}
+
+.fa-envelope {
+    color:black
+}
